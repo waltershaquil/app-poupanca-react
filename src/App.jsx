@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import HeadertTop from "./components/HeaderTop";
-import Months from "./components/months";
+import Months from "./components/Months";
 import { PartyPopper } from "lucide-react";
 
 function App() {
