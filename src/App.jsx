@@ -54,7 +54,7 @@ function App() {
     <div>
       <HeadertTop />
 
-      <div className="bg-teal-600 max-w-screen-xl min-h-screen p-6 px-10 rounded-md">
+      <div className="bg-teal-600 max-w-screen-xl min-h-screen p-6 px-10 ">
         {Total >= Objectivo && (
           <div className="text-4xl font-bold items-center text-white justify-center text-center flex flex-row bg-amber-400 rounded-md p-3 my-4 ">
             <PartyPopper className="h-10 w-10 text-white" /> congradulation, you
