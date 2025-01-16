@@ -19,7 +19,8 @@ function HeaderTop() {
                 <li>
                   <a
                     className="text-gray-500 transition hover:text-teal-600"
-                    href="#"
+                    target="_blank"
+                    href="https://www.linkedin.com/in/walter-da-conceição-0358972a5/"
                   >
                     {" "}
                     About{" "}
@@ -29,7 +30,8 @@ function HeaderTop() {
                 <li>
                   <a
                     className="text-gray-500 transition hover:text-teal-600"
-                    href="#"
+                    target="_blank"
+                    href="https://github.com/waltershaquil"
                   >
                     {" "}
                     Projects{" "}
